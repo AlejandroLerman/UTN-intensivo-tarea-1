@@ -1,0 +1,6 @@
+TAREA:
+
+    Escribir el codigo html de uno de los recuadros/cajas de la pagina:
+    https://css-tricks.com/
+
+    Opcional: Subir a github
